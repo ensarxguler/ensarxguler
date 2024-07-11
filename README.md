@@ -2,8 +2,6 @@
 <h3 align="center">A passionate SDET from Turkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 💬 Ask me about **Java, Selenium**
-
 - 📫 How to reach me **ensarguler64@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
